@@ -1,7 +1,7 @@
-# README GENERATOR 
+# ReadMe Generator 
 
 ## DESCRIPTION: 
-	 Its makes an autonated ReadMe based on the inputs the user gives. 
+	 Make an Auto ReadMe based on the users inputs 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,13 +11,13 @@
 - [Contact Me](#contact-me) 
 
 ## INSTALLATION: 
-	  intall jest and inquirer then type node index  
+	  Install jest and Inquirer then type node index 
 
 ## USAGES: 
-  
+  <iframe src="https://drive.google.com/file/d/1AXKySXq3Ibrul3usyuyXE3zxBwBGZqe-/preview" width="640" height="480"></iframe>
 
 ## CONTRIBUTING: 
-	 sumbit any issues or review the code and request for changes to be made. 
+	 Please sumbit any request that can be made to the code or repo from this project 
 
 ## LICENSE: 
 	   
