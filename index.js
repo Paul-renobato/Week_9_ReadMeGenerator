@@ -8,7 +8,7 @@ const questions = [  {
     message: 'What is the title of the project?',
     name: 'projectTitle',
   }, {
-    type: 'editor',
+    type: 'input',
     message: 'What does this app do?',
     name: 'description',
   }, {
@@ -20,7 +20,7 @@ const questions = [  {
     message: 'Provide instructions and examples for use.  Include screenshots as needed.',
     name: 'usages',
   }, {
-    type: 'editor',
+    type: 'input',
     message: 'List the ways in which someone may contribute to this project.',
     name: 'contributing',
   }, {
